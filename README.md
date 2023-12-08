@@ -53,6 +53,7 @@ Create a bird sanctuary donation app using React, incorporating specific functio
 
 - Has the class name `checkout`.
 - Handle form completion and submission.
+- Use `<label>` elements and proper attributes
 - Alert `You have successfully adopted birds. Thank you!` upon successful submission.
 - Upon closing the alert box, reset the cart entirely (removing all birds, discounts, and bonus items) and clear the checkout form.
 
