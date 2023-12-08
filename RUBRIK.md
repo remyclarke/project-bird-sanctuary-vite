@@ -1,6 +1,6 @@
 # Bird Sanctuary ReactJS Project Rubric
 
-## Overall Project (Total Points: 7)
+## Overall Project (Total Points: 9)
 
 ### 1. Code Quality and Structure (1 Point)
 
