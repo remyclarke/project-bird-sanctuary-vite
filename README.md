@@ -26,7 +26,7 @@ Create a bird sanctuary donation app using React, incorporating specific functio
 
 - Use data from `src/data/birds.js`.
 - Display bird name, image, and price for each bird from the array.
-- Include an 'Adopt' button.
+- Include an 'Adopt' button with text `Adopt`.
 - Assign the class name `card` to each bird card.
 
 ### Cart Component
