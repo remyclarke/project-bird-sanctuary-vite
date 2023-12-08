@@ -76,3 +76,5 @@ Implement the following features, each worth 1 point, for a total of 7 points. A
 - Test each feature against the user stories to ensure compliance with the requirements.
 
 Focus on fulfilling these detailed requirements to successfully complete your Bird Sanctuary ReactJS project.
+
+Good Luck!
