@@ -59,7 +59,7 @@ Your React app should be made up of a minimum of 3 components:
 ### Cards
 
 - The bird data comes from `src/data/birds.js`
-  [ ] Each bird card displays the name, image, and amount (price)
+- Each bird card displays the name, image, and amount (price)
 - Each bird card has a class name of `card`
 - Each bird card has an `Adopt` button with the text `Adopt`
 
