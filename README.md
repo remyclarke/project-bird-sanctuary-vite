@@ -60,7 +60,8 @@ Implement the following features, each worth 1 point, for a total of 7 points. A
 - Bonus item thresholds:
   - [ ] 1 bonus (first array item) for a total between $100 and $300.
   - [ ] 2 bonuses (first and second array items) for a total between $300 and $500.
-  - [ ] 3 bonuses (first, second, and third array items) for a total between $500 and $1000. - [ ] 4 bonuses (all array items) for a total over $1000.
+  - [ ] 3 bonuses (first, second, and third array items) for a total between $500 and $1000.
+  - [ ] 4 bonuses (all array items) for a total over $1000.
 
 ### Checkout Component
 
