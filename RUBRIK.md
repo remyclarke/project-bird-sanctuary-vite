@@ -66,4 +66,4 @@
 - README or documentation is provided, explaining how to run the project.
 - Clear instructions for setting up and testing the project.
 
-## Total Points: 15
+## Total Points: 9
