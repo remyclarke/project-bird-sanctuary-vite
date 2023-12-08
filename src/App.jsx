@@ -1,7 +1,3 @@
-import Cards from "./components/Cards";
-import Cart from "./components/Cart";
-import Checkout from "./components/Checkout";
-
 function App() {
   return (
     <div>
