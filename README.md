@@ -42,7 +42,7 @@ Create a bird sanctuary donation app using React, incorporating specific functio
 
 #### Bonus Items in Cart
 
-- Display bonus items in the cart as list items in an unordered list (`<ul>`), based on total cost thresholds. Bonus items are determined from the `src/data/bonusItems.js`.
+- Display bonus items in the cart as list items in a separate unordered list (`<ul>`), based on total cost thresholds. Bonus items are determined from the `src/data/bonusItems.js`.
 - Bonus item thresholds:
   - 1 bonus (first array item) for a total between $100 and $300.
   - 2 bonuses (first and second array items) for a total between $300 and $500.
