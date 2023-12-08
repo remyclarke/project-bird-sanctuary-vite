@@ -20,6 +20,18 @@
 
 Create a bird sanctuary donation app using React, incorporating specific functionalities based on the user stories provided. The project aims to assess your React skills, with each feature contributing to the total score.
 
+## User Stories and Features
+
+Implement the following features, each worth 1 point, for a total of 7 points. A minimum of 5 points is required to pass, with partial credit possible.
+
+1. Sections with birds displaying name, image, amount, and an adopt button.
+1. Functionality to add birds to the shopping cart.
+1. Display of total cost of birds in the cart.
+1. A 10% discount for having 3 or more birds in the cart.
+1. Bonus items for increasing cart totals.
+1. A form to checkout the cart, which resets the cart upon submission.
+1. Ability to delete a bird from the cart.
+
 ## Specific Component Requirements
 
 ### Cards Component
@@ -56,18 +68,6 @@ Create a bird sanctuary donation app using React, incorporating specific functio
 - Use `<label>` elements and proper attributes
 - Alert `You have successfully adopted birds. Thank you!` upon successful submission.
 - Upon closing the alert box, reset the cart entirely (removing all birds, discounts, and bonus items) and clear the checkout form.
-
-## User Stories and Features
-
-Implement the following features, each worth 1 point, for a total of 7 points. A minimum of 5 points is required to pass, with partial credit possible.
-
-1. Sections with birds displaying name, image, amount, and an adopt button.
-2. Functionality to add birds to the shopping cart.
-3. Display of total cost of birds in the cart.
-4. A 10% discount for having 3 or more birds in the cart.
-5. Bonus items for increasing cart totals.
-6. A form to checkout the cart, which resets the cart upon submission.
-7. Ability to delete a bird from the cart.
 
 ## Additional Guidance
 
