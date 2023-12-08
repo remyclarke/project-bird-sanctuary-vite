@@ -39,7 +39,7 @@ Implement the following features, each worth 1 point, for a total of 7 points. A
 - [ ] Use data from `src/data/birds.js` passed as props.
 
 - [ ] Display bird name, image, and price for each bird from the array.
-- [ ]Include an 'Adopt' button with text `Adopt`.
+- [ ] Include an 'Adopt' button with text `Adopt`.
 - [ ] Assign the class name `card` to each bird card.
 
 ### Cart Component
