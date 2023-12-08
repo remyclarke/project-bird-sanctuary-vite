@@ -18,11 +18,11 @@
 
 ## Project Objective
 
-Create a bird sanctuary donation app using React, incorporating specific functionalities based on the user stories provided. The project aims to assess your React skills, with each feature contributing to the total score.
+Create a bird sanctuary donation app using React, incorporating specific functionalities based on the user stories provided. The project aims to observe your ReactJS skills, with each feature contributing to the total score of 9. A minimum of 6.5 points is required to pass, with partial credit possible. See the [Project Rubrik](RUBRIK.md) for specific qualifications.
 
 ## User Stories and Features
 
-Implement the following features, each worth 1 point, for a total of 7 points. A minimum of 5 points is required to pass, with partial credit possible.
+Implement the following features, each worth 1 point, for a total of 7 points.
 
 1. Sections with birds displaying name, image, amount, and an adopt button.
 1. Functionality to add birds to the shopping cart.
