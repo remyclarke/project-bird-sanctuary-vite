@@ -1,5 +1,9 @@
 # Bird Sanctuary ReactJS Project Instructions
 
+The following demo has been styled for clarity. You do not need to style this app like this.
+
+![Bird Sanctuary](./assets/bird-sanctuary.gif)
+
 ## Initial Setup
 
 1. **Fork the Repo**: Create a copy of this project's repository in your GitHub account.
