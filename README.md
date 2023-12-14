@@ -4,7 +4,7 @@
 
 Create a bird sanctuary donation app using React, incorporating specific functionalities based on the user stories provided. The project aims to challenge your ReactJS skills, with each feature contributing to the total score of 9. A minimum of 6.5 points is required to pass, with partial credit possible. See the [Project Rubrik](RUBRIK.md) for specific qualifications.
 
-## [BIRD SANCTUARY DEMO VIDEO](https://drive.google.com/file/d/1DT8Rt842Dz_sRN9V_beWQrqKamnvrP7s/view?usp=sharing)
+## [Click to watch BIRD SANCTUARY DEMO VIDEO](https://drive.google.com/file/d/1DT8Rt842Dz_sRN9V_beWQrqKamnvrP7s/view?usp=sharing)
 
 The following demo has been styled for clarity. You are not required to style this app like this.
 
