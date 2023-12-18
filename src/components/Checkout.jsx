@@ -24,49 +24,58 @@ const Checkout = ({ onResetCart }) => {
   };
 
   return (
-    <div className="checkout">
-      <form onSubmit={handleSubmit}>
-        <label>
-          First Name:
+    <div className="checkout container my-4">
+      <h2>Checkout Form</h2>
+      <form onSubmit={handleSubmit} className="needs-validation" noValidate>
+        <div className="form-group">
+          <label htmlFor="firstName">First Name</label>
           <input
             type="text"
+            className="form-control"
+            id="firstName"
             name="firstName"
             value={formData.firstName}
             onChange={handleChange}
             required
           />
-        </label>
-        <label>
-          Last Name:
+        </div>
+        <div className="form-group">
+          <label htmlFor="lastName">Last Name</label>
           <input
             type="text"
+            className="form-control"
+            id="lastName"
             name="lastName"
             value={formData.lastName}
             onChange={handleChange}
             required
           />
-        </label>
-        <label>
-          Email:
+        </div>
+        <div className="form-group">
+          <label htmlFor="email">Email</label>
           <input
             type="email"
+            className="form-control"
+            id="email"
             name="email"
             value={formData.email}
             onChange={handleChange}
             required
           />
-        </label>
-        <label>
-          Zip Code:
+        </div>
+        <div className="form-group">
+          <label htmlFor="zipCode">Zip Code</label>
           <input
             type="text"
+            className="form-control"
+            id="zipCode"
             name="zipCode"
             value={formData.zipCode}
             onChange={handleChange}
             required
           />
-        </label>
-        <button type="submit">Submit</button>
+        </div>
+        <button type="submit" className="btn btn-primary btn-block">Submit</button>
       </form>
     </div>
   );

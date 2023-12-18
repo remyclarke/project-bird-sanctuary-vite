@@ -2,13 +2,17 @@ import React from 'react';
 
 const Cards = ({ birds, onAdopt }) => {
   return (
-    <div>
+    <div className="row">
       {birds.map(bird => (
-        <div className="card" key={bird.name}>
-          <h3>{bird.name}</h3>
-          <img src={bird.img} alt={bird.name} />
-          <p>Price: ${bird.amount}</p>
-          <button onClick={() => onAdopt(bird)}>Adopt</button>
+        <div className="col-md-4 mb-4" key={bird.name}>
+          <div className="card">
+            <img src={bird.img} alt={bird.name} className="card-img-top" />
+            <div className="card-body">
+              <h5 className="card-title">{bird.name}</h5>
+              <p className="card-text">Price: ${bird.amount}</p>
+              <button onClick={() => onAdopt(bird)} className="btn btn-primary">Adopt</button>
+            </div>
+          </div>
         </div>
       ))}
     </div>
