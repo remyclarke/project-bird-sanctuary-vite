@@ -10,7 +10,7 @@ const Cards = ({ birds, onAdopt }) => {
             <div className="card-body">
               <h5 className="card-title">{bird.name}</h5>
               <p className="card-text">Price: ${bird.amount}</p>
-              <button onClick={() => onAdopt(bird)} className="btn btn-primary">Adopt</button>
+              <button onClick={() => onAdopt(bird)} className="btn btn-block btn-warning">Adopt</button>
             </div>
           </div>
         </div>
